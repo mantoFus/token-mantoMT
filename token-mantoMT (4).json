@@ -1,0 +1,20 @@
+{
+  "chainId": 101,
+  "address": "AF9cpMZ8jo3QCnZ671Hbk13Dhw79vqxUsdy3wAiuNdae",
+  "symbol": "MT",
+  "name": "manto",
+  "decimals": 9,
+  "logoURI": "https://manto.es/logo.png",
+  "tags": [
+    "utility-token",
+    "DeFi",
+    "manto"
+  ],
+  "extensions": {
+    "website": "https://manto.es",
+    "twitter": "https://twitter.com/mantomt",
+    "github": "https://github.com/mantoFus/manto-ecosistema-global",
+    "whitepaper": "https://manto.es/whitepaper.pdf",
+    "description": "manto (MT) es la moneda del Reino: una criptomoneda respaldada en oro, justicia social y proyectos reales sobre la blockchain Solana."
+  }
+}
